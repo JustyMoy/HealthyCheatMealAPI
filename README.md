@@ -43,7 +43,7 @@ Don't forget to update the media queries to make sure everyone can see your cont
     <td width="33.3%" valign="top">
 <a target="_blank" href="https://github.com/JustyMoy/randomRecipeGenerator"> Randon Recipe Generator</a>
         <br />
-      <a target="_blank" href="https://github.com/JustyMoy/portfolioSalon">
+      <a target="_blank" href="https://github.com/JustyMoy/randomRecipeGenerator">
 ![alt tag](https://user-images.githubusercontent.com/87396968/179095031-c2fe9829-1748-44c0-baa7-bcf55c3bd171.png)
         </a>
     </td>
