@@ -3,5 +3,22 @@
   "version": "1.0.0",
   "description": "dot free bootstrap documentaion template",
   "author": "Themefisher",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustyMoy/HealthyCheatMealAPI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JustyMoy/HealthyCheatMealAPI/issues"
+  },
+  "homepage": "https://github.com/JustyMoy/HealthyCheatMealAPI#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "env": "^0.0.2",
+    "express": "^4.18.1"
+  }
 }
