@@ -38,10 +38,10 @@ I learned that creating a successful project, isn't determined by it's complexit
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/JustyMoy/HealthyCheatMealAPI"> Healthy Cheat Meals</a>
+<a target="_blank" href="https://github.com/JustyMoy/randomRecipeGenerator"> Random Recipe Generator</a>
         <br />
       <a target="_blank" href="https://github.com/JustyMoy/HealthyCheatMealAPI">
-![alt tag](https://user-images.githubusercontent.com/87396968/179097309-b8ebcdb1-28db-4bfa-86d0-06d1e5b36bbd.png)
+![alt tag](https://user-images.githubusercontent.com/87396968/178868747-0a4040aa-0f53-4304-a3dc-26da63089e5c.png))
         </a>
     </td>
   </tr>
