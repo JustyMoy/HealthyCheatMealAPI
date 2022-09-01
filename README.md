@@ -1,58 +1,44 @@
-# Healthy Cheat Meal Generator
-Need help staying on track with a diet without giving up flavor? This app generates over 60+ cheat meal alternatives to help you stay on track.
+# Introduction
 
-**Link to project:** https://healthycheatmealgenerator.netlify.app/
+A Simple ToDo App is built using the MVC Architecture, we have also implemented "authorization" so folx can sign up, customize & personalize the app 
 
+---
 
-![alt tag](https://user-images.githubusercontent.com/87396968/178868372-62de30e0-d506-4dc3-a6e3-1b9738f8e8cd.png)
+> Be sure to add that lovely star 😀 and fork it for your own copy
 
+---
 
-## How It's Made:
+# Objectives
 
-## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
+- It's a beginner level app created to understand how MVC concept and logins are added
 
-## Optimizations
-When I improve this project, I would update my media queries and would focus on a mobile-first approach. I would then work on adding favorites option for all the recipes.
+---
 
-## Lessons Learned:
+# Who is this for? 
 
-Don't forget to update the media queries to make sure everyone can see your content, rather than just the people that have a screen size like yours.
+- It's for beginners & intermediates with little more experience, to help understand the various aspects of building a node app with some complex features
 
-## More Projects
+---
 
+# Packages/Dependencies used 
 
+bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mongodb, mongoose, morgan, nodemon, passport, passport-local, validator
 
+---
 
-<table bordercolor="#66b2b2">
-  <tr>
-    <td width="33.3%" valign="top">
-    
-<a target="_blank" href="https://github.com/JustyMoy/portfolioSalon"> MKE Color Salon</a>
-        <br />
-      <a target="_blank" href="https://github.com/JustyMoy/portfolioSalon">
-![alt tag](https://user-images.githubusercontent.com/87396968/179092262-1806e6a0-2595-4ed9-88d2-5d8ca214f255.png)
-        </a>
-    </td>
-    <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/JustyMoy/portfolioSalon"> Portfolio Website</a>
-        <br />
-      <a target="_blank" href="https://github.com/JustyMoy/PortfolioWebsite">
-![alt tag](https://user-images.githubusercontent.com/87396968/179094479-a3d272dc-7645-439c-aaab-b28f61a30670.png)
-        </a>
-    </td>
-    <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/JustyMoy/randomRecipeGenerator"> Randon Recipe Generator</a>
-        <br />
-      <a target="_blank" href="https://github.com/JustyMoy/randomRecipeGenerator">
-![alt tag](https://user-images.githubusercontent.com/87396968/179095031-c2fe9829-1748-44c0-baa7-bcf55c3bd171.png)
-        </a>
-    </td>
-  </tr>
-</table>
+# Install all the dependencies or node packages used for development via Terminal
 
+`npm install` 
 
+---
 
+# Things to add
 
-
+- Create a `.env` file and add the following as `key: value` 
+  - PORT: 2121 (can be any port example: 3000) 
+  - DB_STRING: `your database URI` 
+ ---
+ 
+ Have fun testing and improving it! 😎
 
 
