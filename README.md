@@ -1,7 +1,7 @@
 # Healthy Cheat Meals
 Not sure what to cook on a week night? This application generators a random recipe for you to try or prepare for a meal with over 100+ to choose from.
 
-**Link to project:** https://chefstatusrecipegenerator.netlify.app/
+**Link to project:** https://cheatmeal-app.herokuapp.com/
 
 
 ![alt tag](https://user-images.githubusercontent.com/87396968/188015277-24bc8176-7f8c-44e2-b54e-87571d107f44.png)
